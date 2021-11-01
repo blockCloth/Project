@@ -25,6 +25,7 @@ public class animal {
         System.out.println("我是hot-fix分支提交的代码");
         System.out.println("master test");
         System.out.println("hot-fix test");
+        System.out.println("push test");
     }
 
     public void shuzu(){
