@@ -23,6 +23,7 @@ public class animal {
         }
         System.out.println("动物在跑步");
         System.out.println("我是hot-fix分支提交的代码");
+        System.out.println("master test");
     }
 
     public void shuzu(){
