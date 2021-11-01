@@ -12,6 +12,7 @@ public class animal {
                 System.out.println(nums[i]);
             }
         }
+        System.out.println("我是一个git提交的文档");
     }
     public void run(){
         for (int i = 1; i <= 9; i++) {
